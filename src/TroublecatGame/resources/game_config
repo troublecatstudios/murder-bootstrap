@@ -1,5 +1,6 @@
 {
-  "$type": "Murder.Assets.GameProfile, Murder",
+  "$type": "TroublecatGame.Assets.TroublecatProfile, TroublecatGame",
+  "Library": "51204263-e1e1-4a11-898b-99a76a776b53",
   "AtlasFolderName": "atlas/",
   "ContentAsepritePath": "aseprite/",
   "FontPath": "shaders/",
@@ -20,7 +21,7 @@
   "IsVSyncEnabled": false,
   "ShowUiDebug": true,
   "PushAwayInterval": 0.05,
-  "StartingScene": "00000000-0000-0000-0000-000000000000",
+  "StartingScene": "e6869888-dbce-47eb-a807-2a9fb6574841",
   "Theme": {
     "$type": "Murder.Assets.Theme, Murder",
     "Bg": {
@@ -204,6 +205,6 @@
   },
   "DefaultPalette": "images/murder_palette",
   "MissingImage": "485a9a13-e62b-7215-dbc3-9e1df4bcba73",
-  "Name": "",
-  "Guid": "58f96c95-47e9-4e26-a497-2f57f9568a7d"
+  "Name": "Game Profile",
+  "Guid": "407ff211-1a4b-4315-9452-7ecbd0bc4eeb"
 }

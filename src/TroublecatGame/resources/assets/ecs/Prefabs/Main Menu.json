@@ -1,0 +1,37 @@
+{
+  "$type": "Murder.Assets.PrefabAsset, Murder",
+  "ShowOnPrefabSelector": false,
+  "_entity": {
+    "$type": "Murder.Prefabs.EntityInstance, Murder",
+    "_guid": "fb4e766f-c912-4a77-aaa6-58f66257ff94",
+    "_name": "",
+    "_components": {
+      "$type": "System.Collections.Generic.Dictionary`2[[System.Type, System.Private.CoreLib],[Bang.Components.IComponent, Bang]], System.Private.CoreLib",
+      "Bang.StateMachines.StateMachineComponent`1[[TroublecatGame.StateMachines.MainMenuStateMachine, TroublecatGame, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], Bang, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": {
+        "$type": "Bang.StateMachines.StateMachineComponent`1[[TroublecatGame.StateMachines.MainMenuStateMachine, TroublecatGame]], Bang",
+        "_routine": {
+          "$type": "TroublecatGame.StateMachines.MainMenuStateMachine, TroublecatGame",
+          "_newGameWorld": "00000000-0000-0000-0000-000000000000",
+          "_cachedPersistedState": "Main"
+        }
+      }
+    },
+    "IsDeactivated": false,
+    "ActivateWithParent": false
+  },
+  "Dimensions": {
+    "$type": "Murder.Core.TileDimensions, Murder",
+    "Origin": {
+      "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": 0.0
+    },
+    "Size": {
+      "$type": "Murder.Core.Geometry.Point, Murder",
+      "X": 0,
+      "Y": 0
+    }
+  },
+  "Name": "Main Menu",
+  "Guid": "6cab5c1f-a246-41f0-954e-347f3ec91d02"
+}

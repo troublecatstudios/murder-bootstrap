@@ -1,0 +1,24 @@
+{
+  "$type": "Murder.Assets.FeatureAsset, Murder",
+  "_systems": {
+    "$type": "System.Collections.Immutable.ImmutableArray`1[[System.ValueTuple`2[[System.Type, System.Private.CoreLib],[System.Boolean, System.Private.CoreLib]], System.Private.CoreLib]], System.Collections.Immutable",
+    "$values": [
+      {
+        "$type": "System.ValueTuple`2[[System.Type, System.Private.CoreLib],[System.Boolean, System.Private.CoreLib]], System.Private.CoreLib",
+        "Item1": "Murder.Systems.SoundsSystem, Murder, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "Item2": true
+      },
+      {
+        "$type": "System.ValueTuple`2[[System.Type, System.Private.CoreLib],[System.Boolean, System.Private.CoreLib]], System.Private.CoreLib",
+        "Item1": "Murder.Systems.MusicSystem, Murder, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "Item2": true
+      }
+    ]
+  },
+  "_features": {
+    "$type": "System.Collections.Immutable.ImmutableArray`1[[System.ValueTuple`2[[System.Guid, System.Private.CoreLib],[System.Boolean, System.Private.CoreLib]], System.Private.CoreLib]], System.Collections.Immutable",
+    "$values": []
+  },
+  "Name": "Sounds",
+  "Guid": "f4d80b7c-9689-437f-a938-de53eef3d9d9"
+}

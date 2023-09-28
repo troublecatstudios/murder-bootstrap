@@ -1,0 +1,54 @@
+{
+  "$type": "Murder.Assets.FeatureAsset, Murder",
+  "_systems": {
+    "$type": "System.Collections.Immutable.ImmutableArray`1[[System.ValueTuple`2[[System.Type, System.Private.CoreLib],[System.Boolean, System.Private.CoreLib]], System.Private.CoreLib]], System.Collections.Immutable",
+    "$values": []
+  },
+  "_features": {
+    "$type": "System.Collections.Immutable.ImmutableArray`1[[System.ValueTuple`2[[System.Guid, System.Private.CoreLib],[System.Boolean, System.Private.CoreLib]], System.Private.CoreLib]], System.Collections.Immutable",
+    "$values": [
+      {
+        "$type": "System.ValueTuple`2[[System.Guid, System.Private.CoreLib],[System.Boolean, System.Private.CoreLib]], System.Private.CoreLib",
+        "Item1": "53b1ec4f-1a52-4688-b9e0-cdcff058b872",
+        "Item2": true
+      },
+      {
+        "$type": "System.ValueTuple`2[[System.Guid, System.Private.CoreLib],[System.Boolean, System.Private.CoreLib]], System.Private.CoreLib",
+        "Item1": "7d08748b-ab7d-4f19-aa80-0026ce22b8ca",
+        "Item2": true
+      },
+      {
+        "$type": "System.ValueTuple`2[[System.Guid, System.Private.CoreLib],[System.Boolean, System.Private.CoreLib]], System.Private.CoreLib",
+        "Item1": "af31fd8e-06c5-4081-8c41-fd80dde25289",
+        "Item2": true
+      },
+      {
+        "$type": "System.ValueTuple`2[[System.Guid, System.Private.CoreLib],[System.Boolean, System.Private.CoreLib]], System.Private.CoreLib",
+        "Item1": "aded09b5-5b91-4bee-a3d6-d6db0271e495",
+        "Item2": true
+      },
+      {
+        "$type": "System.ValueTuple`2[[System.Guid, System.Private.CoreLib],[System.Boolean, System.Private.CoreLib]], System.Private.CoreLib",
+        "Item1": "a863c86b-c6e4-477b-bfca-5903d9a044c6",
+        "Item2": true
+      },
+      {
+        "$type": "System.ValueTuple`2[[System.Guid, System.Private.CoreLib],[System.Boolean, System.Private.CoreLib]], System.Private.CoreLib",
+        "Item1": "02dc75b5-f41a-4135-919e-8ae1e38596ef",
+        "Item2": true
+      },
+      {
+        "$type": "System.ValueTuple`2[[System.Guid, System.Private.CoreLib],[System.Boolean, System.Private.CoreLib]], System.Private.CoreLib",
+        "Item1": "f4d80b7c-9689-437f-a938-de53eef3d9d9",
+        "Item2": true
+      },
+      {
+        "$type": "System.ValueTuple`2[[System.Guid, System.Private.CoreLib],[System.Boolean, System.Private.CoreLib]], System.Private.CoreLib",
+        "Item1": "b2e7506a-4259-4c94-8ff8-e867dae63725",
+        "Item2": true
+      }
+    ]
+  },
+  "Name": "Game Systems",
+  "Guid": "3fff0a31-8b0a-4bbd-8bda-1c03765dd5cd"
+}

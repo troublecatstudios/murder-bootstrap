@@ -1,0 +1,40 @@
+{
+  "$type": "Murder.Core.Graphics.TextureAtlas, Murder",
+  "_entries": {
+    "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[Murder.Core.Graphics.AtlasCoordinates, Murder]], System.Private.CoreLib",
+    "game-logo": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "game-logo",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 512,
+        "Y": 232
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 512,
+        "Height": 232
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.0,
+        "Y": 0.0,
+        "Width": 1.0,
+        "Height": 0.453125
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 512,
+        "Height": 232
+      },
+      "AtlasId": 1
+    }
+  },
+  "Name": "atlas",
+  "Id": 1
+}

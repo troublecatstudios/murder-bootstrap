@@ -1,0 +1,17 @@
+{
+  "$type": "Murder.Assets.CharacterAsset, Murder",
+  "Owner": "00000000-0000-0000-0000-000000000000",
+  "_situations": {
+    "$type": "System.Collections.Generic.SortedList`2[[System.Int32, System.Private.CoreLib],[Murder.Core.Dialogs.Situation, Murder]], System.Collections"
+  },
+  "_components": {
+    "$type": "Murder.Serialization.ComplexDictionary`2[[Murder.Core.Dialogs.DialogItemId, Murder],[Bang.Components.IComponent, Bang]], Murder",
+    "$values": []
+  },
+  "_portraits": {
+    "$type": "Murder.Serialization.ComplexDictionary`2[[Murder.Core.Dialogs.DialogItemId, Murder],[System.ValueTuple`2[[System.Guid, System.Private.CoreLib],[System.String, System.Private.CoreLib]], System.Private.CoreLib]], Murder",
+    "$values": []
+  },
+  "Name": "NewCharacter",
+  "Guid": "16009dd2-5e62-4449-9748-f161f7712762"
+}

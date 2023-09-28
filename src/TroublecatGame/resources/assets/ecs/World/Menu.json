@@ -1,0 +1,60 @@
+{
+  "$type": "Murder.Assets.WorldAsset, Murder",
+  "WorldName": "World",
+  "Order": 1,
+  "_systems": {
+    "$type": "System.Collections.Immutable.ImmutableArray`1[[System.ValueTuple`2[[System.Type, System.Private.CoreLib],[System.Boolean, System.Private.CoreLib]], System.Private.CoreLib]], System.Collections.Immutable",
+    "$values": []
+  },
+  "_features": {
+    "$type": "System.Collections.Immutable.ImmutableArray`1[[System.ValueTuple`2[[System.Guid, System.Private.CoreLib],[System.Boolean, System.Private.CoreLib]], System.Private.CoreLib]], System.Collections.Immutable",
+    "$values": [
+      {
+        "$type": "System.ValueTuple`2[[System.Guid, System.Private.CoreLib],[System.Boolean, System.Private.CoreLib]], System.Private.CoreLib",
+        "Item1": "f584f980-53de-4ade-bead-7de0924d152c",
+        "Item2": true
+      }
+    ]
+  },
+  "_folders": {
+    "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.Collections.Immutable.ImmutableArray`1[[System.Guid, System.Private.CoreLib]], System.Collections.Immutable]], System.Private.CoreLib"
+  },
+  "_entities": {
+    "$type": "System.Collections.Generic.Dictionary`2[[System.Guid, System.Private.CoreLib],[Murder.Prefabs.EntityInstance, Murder]], System.Private.CoreLib",
+    "b7ea168f-892c-48a1-8f85-00b7e40b8705": {
+      "$type": "Murder.Prefabs.PrefabEntityInstance, Murder",
+      "PrefabRef": {
+        "$type": "Murder.Prefabs.PrefabReference, Murder",
+        "Guid": "6cab5c1f-a246-41f0-954e-347f3ec91d02"
+      },
+      "_removeComponent": {
+        "$type": "System.Collections.Generic.HashSet`1[[System.Type, System.Private.CoreLib]], System.Private.CoreLib",
+        "$values": []
+      },
+      "_childrenModifiers": {
+        "$type": "System.Collections.Generic.Dictionary`2[[System.Guid, System.Private.CoreLib],[Murder.Prefabs.EntityModifier, Murder]], System.Private.CoreLib"
+      },
+      "_ignorePrefabChildren": false,
+      "_components": {
+        "$type": "System.Collections.Generic.Dictionary`2[[System.Type, System.Private.CoreLib],[Bang.Components.IComponent, Bang]], System.Private.CoreLib",
+        "Bang.StateMachines.StateMachineComponent`1[[TroublecatGame.StateMachines.MainMenuStateMachine, TroublecatGame, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], Bang, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": {
+          "$type": "Bang.StateMachines.StateMachineComponent`1[[TroublecatGame.StateMachines.MainMenuStateMachine, TroublecatGame]], Bang",
+          "_routine": {
+            "$type": "TroublecatGame.StateMachines.MainMenuStateMachine, TroublecatGame",
+            "_newGameWorld": "58f00426-bdbd-4a1f-9b47-a7a07e122754",
+            "_cachedPersistedState": "Main"
+          }
+        }
+      },
+      "IsDeactivated": false,
+      "ActivateWithParent": false,
+      "_guid": "b7ea168f-892c-48a1-8f85-00b7e40b8705",
+      "_name": "Main Menu"
+    }
+  },
+  "_entitiesToFolder": {
+    "$type": "System.Collections.Generic.Dictionary`2[[System.Guid, System.Private.CoreLib],[System.String, System.Private.CoreLib]], System.Private.CoreLib"
+  },
+  "Name": "Menu",
+  "Guid": "e6869888-dbce-47eb-a807-2a9fb6574841"
+}

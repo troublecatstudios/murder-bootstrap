@@ -1,0 +1,80 @@
+using Murder.Core.Graphics;
+
+namespace TroublecatGame.Data;
+
+internal static class Palette
+{
+    public readonly static Color[] Colors = new Color[]
+    {
+        Color.FromHex("000000"),
+        Color.FromHex("3d193f"),
+        Color.FromHex("5f1d43"),
+        Color.FromHex("7f201e"),
+        Color.FromHex("bc302b"),
+        Color.FromHex("e97260"),
+        Color.FromHex("fa878e"),
+        Color.FromHex("f6afb1"),
+        Color.FromHex("7d1966"),
+        Color.FromHex("952857"),
+        Color.FromHex("d63e55"),
+        Color.FromHex("f9ad72"),
+        Color.FromHex("fed29b"),
+        Color.FromHex("693543"),
+        Color.FromHex("964659"),
+        Color.FromHex("b16b5e"),
+        Color.FromHex("e09286"),
+        Color.FromHex("8f5759"),
+        Color.FromHex("fef3e2"),
+        Color.FromHex("7e5f3b"),
+        Color.FromHex("a08a64"),
+        Color.FromHex("c8ae79"),
+        Color.FromHex("fffefd"),
+        Color.FromHex("93341f"),
+        Color.FromHex("b9532b"),
+        Color.FromHex("dd7a3c"),
+        Color.FromHex("fdd053"),
+        Color.FromHex("fefead"),
+        Color.FromHex("1e2a53"),
+        Color.FromHex("324024"),
+        Color.FromHex("5b6628"),
+        Color.FromHex("868823"),
+        Color.FromHex("bcab2a"),
+        Color.FromHex("2a555e"),
+        Color.FromHex("3a784d"),
+        Color.FromHex("649d47"),
+        Color.FromHex("9ab951"),
+        Color.FromHex("d2d064"),
+        Color.FromHex("339a79"),
+        Color.FromHex("23c39b"),
+        Color.FromHex("82eda2"),
+        Color.FromHex("c7fff9"),
+        Color.FromHex("004988"),
+        Color.FromHex("007da8"),
+        Color.FromHex("1f8dd3"),
+        Color.FromHex("05b5cc"),
+        Color.FromHex("00c9d5"),
+        Color.FromHex("402187"),
+        Color.FromHex("3d52b9"),
+        Color.FromHex("529be2"),
+        Color.FromHex("7fb2f4"),
+        Color.FromHex("8ad5fa"),
+        Color.FromHex("6e32a0"),
+        Color.FromHex("895bb3"),
+        Color.FromHex("ab79d8"),
+        Color.FromHex("d59df5"),
+        Color.FromHex("f5c6e9"),
+        Color.FromHex("9f4390"),
+        Color.FromHex("ce5a96"),
+        Color.FromHex("190931"),
+        Color.FromHex("3b3a61"),
+        Color.FromHex("5e5684"),
+        Color.FromHex("727fa9"),
+        Color.FromHex("86a0c0"),
+        Color.FromHex("b8cedf"),
+    };
+
+    static Palette()
+    {
+
+    }
+}

@@ -1,0 +1,34 @@
+{
+  "$type": "TroublecatGame.Assets.UiSkinAsset, TroublecatGame",
+  "Logo": "918b7bca-61f5-84b8-d062-88f28459c946",
+  "MainMenuBg": {
+    "$type": "Murder.Core.Graphics.Color, Murder",
+    "R": 0.29803923,
+    "G": 0.40784317,
+    "B": 0.52156866,
+    "A": 1.0
+  },
+  "MainMenuItemShadow": {
+    "$type": "Murder.Core.Graphics.Color, Murder",
+    "R": 0.0,
+    "G": 0.0,
+    "B": 0.0,
+    "A": 1.0
+  },
+  "MainMenuItem": {
+    "$type": "Murder.Core.Graphics.Color, Murder",
+    "R": 0.96470594,
+    "G": 0.6862745,
+    "B": 0.69411767,
+    "A": 1.0
+  },
+  "MainMenuItemSelected": {
+    "$type": "Murder.Core.Graphics.Color, Murder",
+    "R": 0.58431375,
+    "G": 0.15686275,
+    "B": 0.34117648,
+    "A": 1.0
+  },
+  "Name": "DefaultSkin",
+  "Guid": "dd10a7b1-1146-46df-a1c5-98d0ff0065f5"
+}
